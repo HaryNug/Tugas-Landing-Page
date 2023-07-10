@@ -348,11 +348,11 @@ span.line::after {
   margin-bottom: 25.6px;
 }
 
-.bottom-row-left{
+.bottom-row-right{
   padding-right: 16px;
   border-right: 1px solid #1ECD7D;
 }
 
-.bottom-row-right{
+.bottom-row-right2{
   padding-left: 16px;
 }
